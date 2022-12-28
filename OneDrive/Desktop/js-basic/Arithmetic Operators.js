@@ -19,3 +19,22 @@ let num8 = 20
 let result3 = num7 % num8
 console.log( result3 );
 
+let num9 = 5
+let result4 = 5 ** 3
+console.log( result4 );
+
+let num10 = 14
+num10++ //pre increment
+++num10 //post increment
+console.log(num10);
+
+
+let numb = 4
+let x = numb++     //post increment
+console.log(x, numb );
+
+
+
+let numbe = 5
+let y = ++numbe     //per increment
+console.log(y, numbe );
